@@ -8,5 +8,4 @@ while i < len(my_list):
         i = i + 1
         continue
     elif my_list[i] < 0:
-        del my_list[i]
         break
